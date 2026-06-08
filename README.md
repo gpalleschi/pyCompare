@@ -594,4 +594,4 @@ Output: `dist/PyCompare.exe` — a single-file, no-console Windows application b
 
 ## License
 
-MIT
+This project is licensed under the GNU GENERAL PUBLIC LICENSE 3.0 License - see the [LICENSE](LICENSE) file for details 
